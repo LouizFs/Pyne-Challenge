@@ -21,4 +21,4 @@ ruby main.rb
 
 Execute the comand rspec on root folder to execute all tests
 ```bash
-rspec
+bundle exec rspec
